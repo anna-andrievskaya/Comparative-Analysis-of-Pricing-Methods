@@ -22,7 +22,7 @@
     # Lipovetsky, S., Magnan, S., & Zanetti-Polzi, A. (2011). Pricing models in 
     # marketing research. Intelligent Information Management. 
     # 
-    # ÔÀÌÈËÈŞ ÒÓÒ ÍÀÏÈØÈ Ñ ÈÌÅÍÅÌ ÑÂÎÈÌ È ÑÑÛËêó íà Ïî×ÒÓ ÎÁÛ×ÍÎ ÒÀÊ ÄÅËÀŞÒ
+    # Andrievskaya A. anna_andriev@mail.ru
     
     library(ggplot2)        
     
